@@ -1,0 +1,136 @@
+.titre {
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    color: white;
+}
+
+.tableauButton{
+    width:200px;
+    position:fixed;
+    bottom:10%;
+    left: 50%;
+    margin-left:-100px;
+}
+
+.a {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: none;
+    font-size: 12px;
+    margin-right: 4px;
+    text-decoration: none;
+    font-family: 'Trebuchet MS';
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
+
+.tableauCarre {
+    height: 55px;
+    width:300px;
+    float: right;
+}
+
+.button1 {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    width: 50px;
+    height: 52px;
+    border: 2px gray;
+    font-size: 12px;
+    margin-left: 2px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0px
+}
+
+    .button1:hover {
+        background-color: black;
+        color: white;
+    }
+
+.image {
+    width: 50px;
+    height: 50px;
+}
+
+.rectangle {
+    width: 150px;
+    height: 50px;
+    border: 0px;
+    position: fixed;
+    left: 50%;
+    top: 15%;
+    margin-left: -75px;
+}
+
+.date {
+    width: 145px;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    margin-left: -72.5px;
+}
+
+.dateTexte {
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Trebuchet MS';
+}
+
+.holder {
+    width: 700px;
+    height: 450px;
+    position: fixed;
+    top: 26%;
+    left: 50%;
+    margin-left: -350px;
+    display: inline-block;
+}
+
+.photos {
+    width:375px;
+    height:375px;
+    float:left;
+}
+
+.infos {
+    width: 300px;
+    height:225px;
+    float: right;
+}
+
+.texte {
+    font-size: 13px;
+    line-height: 1;
+    font-family: 'Trebuchet MS';
+    text-align: justify;
+}
+
+.textePrincipal {
+    font-size: 15px;
+    font-family: 'Trebuchet MS';
+    line-height: 0.5;
+}
+
+.texteSecondaire {
+    font-size: 14px;
+    font-family: 'Trebuchet MS';
+    line-height: 0.5;
+}
+.googleForm{
+    width:300px;
+    height:80px;
+    text-align:left;
+    font-size:20px;
+    float:right;
+}
+.a[href="https://docs.google.com/forms/d/e/1FAIpQLSeKAZKE1LuWwSBug_4g80CmlmvtD2HiKwdbizy5BRR3-ky5mQ/viewform"]{
+    font-size:20px;
+}
